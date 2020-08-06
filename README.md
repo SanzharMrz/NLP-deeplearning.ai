@@ -6,7 +6,7 @@ By the end of this Specialization, you will be ready to design NLP applications 
 
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 
-# This Specialization will equip you with the state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:
+## This Specialization will equip you with the state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:
 
 • Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, and translate words, and use locality sensitive hashing for approximate nearest neighbors.
 
